@@ -14,10 +14,6 @@
 <br />
 
 ## About Me
-
-- **Freelance Experience**: Contributed to full development cycles of various applications, fixing bugs, analyzing systems, and enhancing efficiency and code quality.  
-- **Consulting Firm**: Participated in blockchain-based projects and the development of efficiency algorithms. Notably contributed to a taxi-hailing mobile app, focusing on key features and quality assurance.  
-- **Team Leadership**: Led a team to address performance issues in a large-scale application, successfully adopting new technologies and optimizing infrastructure to reduce server costs by 82%.  
 - **Interests**: Constantly learning new programming languages and frameworks, and I love reading novels and books in my free time.
 
 <br />
@@ -55,7 +51,7 @@
   </a>
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -75,7 +71,7 @@
   </a>
   <!-- NestJS -->
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -83,7 +79,7 @@
   </a>
   <!-- Rust -->
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
   </a>
   <!-- Dart -->
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
