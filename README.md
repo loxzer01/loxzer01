@@ -13,16 +13,6 @@
 
 <br />
 
-## About Me
-- **Interests**: Constantly learning new programming languages and frameworks, and I love reading novels and books in my free time.
-
-<br />
-
-## Currently Learning
-- Expanding my knowledge of advanced web development frameworks and best practices.
-
-<br />
-
 ## How to Reach Me
 - **Email**: [banquezfrancisco@yahoo.com](mailto:banquezfrancisco@yahoo.com)
 - **LinkedIn**: [franciscobanquez](https://www.linkedin.com/in/franciscobanquez/)
@@ -47,7 +37,7 @@
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
