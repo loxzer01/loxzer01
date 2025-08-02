@@ -1,105 +1,294 @@
-<h1 align="center">Hi 👋, I'm Francisco Banquez</h1>
-<h3 align="center">Full Stack Developer 🌟</h3>
+```bash
+┌──(franciscobanquez㉿portugal)-[~]
+└─$ whoami
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loxzer01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Francisco+Banquez;Backend+Developer;DevOps+Engineer;Go+%7C+Node.js+%7C+Docker" alt="Typing SVG" />
+</h1>
 
-<br />
+```bash
+┌──(franciscobanquez㉿portugal)-[~]
+└─$ cat /proc/status
+```
 
-<p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300px" alt="Coding animation" />
-</p>
+<div align="center">
 
-<br />
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                    🚀 SYSTEM INFORMATION                      ║
+╠═══════════════════════════════════════════════════════════════╣
+║ Name:           Francisco Banquez                             ║
+║ Role:           Backend Developer & DevOps Engineer           ║
+║ Location:       Portugal 🇵🇹                                  ║
+║ Status:         Available for Remote Work                     ║
+║ Specialization: Web Scraping | Microservices | Automation    ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-## How to Reach Me
-- **Email**: [banquezfrancisco@yahoo.com](mailto:banquezfrancisco@yahoo.com)
-- **LinkedIn**: [franciscobanquez](https://www.linkedin.com/in/franciscobanquez/)
-- **HackerRank**: [loxzer01](https://www.hackerrank.com/loxzer01)
-- **Twitter**: [@loxzer01](https://twitter.com/loxzer01)
+</div>
 
-<br />
+```bash
+┌──(franciscobanquez㉿portugal)-[~]
+└─$ ps aux | grep skills
+```
 
-## Languages and Tools
-<p align="left">
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <!-- Sass -->
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <!-- NestJS -->
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <!-- Rust -->
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
-  </a>
-  <!-- Dart -->
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <!-- Flutter -->
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-</p>
+## 🛠️ **TECH STACK**
 
-<br />
+<details>
+<summary>👨‍💻 <strong>Backend & DevOps</strong></summary>
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loxzer01&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="loxzer01 Top Languages"/>
-</p>
+```bash
+user@francisco:~$ ls -la /usr/local/bin/backend/
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loxzer01&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="loxzer01 GitHub Stats"/>
-</p>
+<div align="left">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loxzer01&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="loxzer01 Streak Stats"/>
-</p>
+**Languages & Frameworks:**
+```bash
+├── go/          # Go-Colly, Playwright, Fiber
+├── nodejs/      # Express, NestJS, HonoJS
+├── python/      # Django, FastAPI
+└── typescript/  # Type-safe development
+```
+
+**Infrastructure & DevOps:**
+```bash
+├── docker/      # Containerization
+├── kubernetes/  # Orchestration  
+├── aws/         # Cloud Services
+├── linux/       # System Administration
+└── nginx/       # Load Balancing
+```
+
+</div>
+</details>
+
+<details>
+<summary>🗄️ <strong>Databases & Storage</strong></summary>
+
+```bash
+user@francisco:~$ systemctl status databases
+```
+
+<div align="left">
+
+```bash
+● postgresql.service - PostgreSQL database server
+   Active: active (running)
+   
+● mongodb.service - MongoDB Database Server  
+   Active: active (running)
+   
+● redis.service - Advanced key-value store
+   Active: active (running)
+```
+
+**ORMs & Query Builders:**
+- `Prisma` `Drizzle` `Mongoose`
+
+</div>
+</details>
+
+<details>
+<summary>⚡ <strong>Specialized Skills</strong></summary>
+
+```bash
+user@francisco:~$ cat ~/.specialized_skills
+```
+
+**🔍 Web Scraping & Automation**
+```go
+// Automated data extraction systems
+func ScrapingPipeline() {
+    collector := colly.NewCollector()
+    // High-performance scraping with Go-Colly
+    // Docker containerized deployments
+}
+```
+
+**🏗️ Microservices Architecture**
+```yaml
+# docker-compose.yml
+version: '3.8'
+services:
+  api-gateway:
+    image: nginx:alpine
+  user-service:
+    build: ./services/users
+  data-service:
+    build: ./services/scraping
+```
+
+**⛓️ Blockchain & Web3**
+```solidity
+// Smart contracts development
+pragma solidity ^0.8.0;
+contract AutomatedSystem { }
+```
+
+</details>
+
+```bash
+┌──(franciscobanquez㉿portugal)-[~]
+└─$ cat /var/log/experience.log
+```
+
+## 💼 **WORK EXPERIENCE**
+
+```bash
+[2024-12-01 00:00:00] INFO: Starting new position at KadeCode
+```
+
+### 🔧 **Go Developer** @ **KadeCode** `[Current]`
+*December 2024 - Present*
+
+```bash
+user@kadecode:~$ cat current_projects.sh
+#!/bin/bash
+echo "🔍 Web scraping systems with Go & Go-Colly"
+echo "🐳 Docker containerization in Linux environments" 
+echo "📊 Scalable data pipelines with PostgreSQL"
+echo "⚡ HonoJS APIs optimized for edge computing"
+```
+
+**Tech Stack:** `Go` `Go-Colly` `Playwright` `Docker` `PostgreSQL` `HonoJS` `TypeScript`
+
+---
+
+```bash
+[2023-12-01 00:00:00] INFO: Promoted to Product Manager
+```
+
+### 👨‍💼 **Product Manager** @ **TechComet** `[Leadership]`
+*December 2023 - July 2024*
+
+```bash
+user@techcomet:~$ kubectl get pods --all-namespaces
+NAMESPACE     NAME                                  READY   STATUS
+migration     react-native-to-flutter-pod          5/5     Running
+microservices aws-k8s-orchestration               3/3     Running  
+ci-cd         automated-pipeline                   1/1     Running
+```
+
+- 🎯 Led team of 5 developers in **React Native → Flutter** migration
+- ☸️ Architected microservices with **Kubernetes** orchestration
+- 🚀 Implemented **CI/CD pipelines** and **AWS infrastructure**
+
+**Tech Stack:** `Kubernetes` `AWS` `Docker` `Next.js` `NestJS` `PostgreSQL` `Redis`
+
+---
+
+### 💻 **FullStack Developer** @ **TechComet** `[Blockchain]`
+*June 2022 - December 2023*
+
+```bash
+user@techcomet:~$ web3 --version && graphql --version
+Web3.js v4.x - Blockchain integration ✅
+GraphQL v16.x - API development ✅
+```
+
+**Tech Stack:** `Next.js` `NestJS` `GraphQL` `AWS` `Firebase` `Prisma`
+
+```bash
+┌──(franciscobanquez㉿portugal)-[~]
+└─$ ls -la ~/projects/
+```
+
+## 🚀 **FEATURED PROJECTS**
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🖼️ **Image Optimization API** | Real-time image optimization server with smart caching | `Go` `Image Processing` `Cache System` | **2025** |
+| 🚗 **rodaapp.com** | Delivery & transportation platform with geolocation | `React Native` `Node.js` `MongoDB` | **2024** |
+| 💰 **loxcoin.io** | Cryptocurrency management with Web3 integration | `Blockchain` `Solidity` `Web3` | **2021** |
+
+</div>
+
+```bash
+user@francisco:~$ cat ~/projects/image-optimization-api/README.md
+```
+
+### 🖼️ **Image Optimization API** `[2025]`
+```go
+// Real-time image optimization with smart caching
+func OptimizeImage(url string, params ImageParams) (*Image, error) {
+    // Multi-format support: JPEG, PNG, GIF, WebP
+    // Microsecond responses for cached images
+    // Flexible quality and size parameters
+}
+```
+
+**Features:**
+- 🚀 **Real-time optimization** - Resize & compress on-the-fly
+- 📦 **Smart caching system** - Ultra-fast cached responses  
+- 🌐 **Multi-format support** - JPEG, PNG, GIF, WebP
+- 🛡️ **CORS & Security** - Smart headers and API authentication
+
+**Tech Stack:** `Go` `Image Processing` `Caching` `REST API`
+
+```bash
+┌──(franciscobanquez㉿portugal)-[~]
+└─$ github-stats --user=loxzer01
+```
+
+## 📊 **GITHUB ANALYTICS**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loxzer01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxzer01&layout=compact&langs_count=7&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loxzer01&theme=radical&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak"/>
+</div>
+
+```bash
+┌──(franciscobanquez㉿portugal)-[~]
+└─$ contact --info
+```
+
+## 📬 **GET IN TOUCH**
+
+```bash
+╔══════════════════════════════════════════════════════════════╗
+║  🌐 Available for Backend, DevOps & Automation Projects     ║
+║  📍 Remote Work | Portugal Timezone                         ║
+║  💼 Open to: Go Development | Microservices | Web Scraping  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-banquezfrancisco%40yahoo.com-00ff41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:banquezfrancisco@yahoo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-loxzer01-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/loxzer01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-franciscobanquez-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/franciscobanquez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-loxzer01.netlify.app-00ff41?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117)](https://loxzer01.netlify.app)
+
+</div>
+
+```bash
+┌──(franciscobanquez㉿portugal)-[~]
+└─$ echo "Thanks for visiting! 🚀"
+```
+
+<div align="center">
+
+```ascii
+╔════════════════════════════════════════════════════════════════╗
+║                  Thanks for visiting! 🚀                      ║  
+║            Built with ❤️ and lots of ☕                       ║
+║        "Code is like humor. When you have to explain it,      ║
+║                        it's bad." - Cory House                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=loxzer01&label=Profile%20views&color=00ff41&style=flat" alt="Profile Views" />
+
+---
+
+<sub>🤖 This README was crafted with terminal aesthetics in mind • Last updated: 2025</sub>
+
+</div>
