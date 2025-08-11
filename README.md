@@ -55,7 +55,6 @@ user@francisco:~$ ls -la /usr/local/bin/backend/
 **Infrastructure & DevOps:**
 ```bash
 ├── docker/      # Containerization
-├── kubernetes/  # Orchestration  
 ├── aws/         # Cloud Services
 ├── linux/       # System Administration
 └── nginx/       # Load Balancing
@@ -124,7 +123,7 @@ services:
 ```solidity
 // Smart contracts development
 pragma solidity ^0.8.0;
-contract AutomatedSystem { }
+contract Staking { }
 ```
 
 </details>
@@ -135,24 +134,6 @@ contract AutomatedSystem { }
 ```
 
 ## 💼 **WORK EXPERIENCE**
-
-```bash
-[2024-12-01 00:00:00] INFO: Starting new position at KadeCode
-```
-
-### 🔧 **Go Developer** @ **KadeCode** `[Current]`
-*December 2024 - Present*
-
-```bash
-user@kadecode:~$ cat current_projects.sh
-#!/bin/bash
-echo "🔍 Web scraping systems with Go & Go-Colly"
-echo "🐳 Docker containerization in Linux environments" 
-echo "📊 Scalable data pipelines with PostgreSQL"
-echo "⚡ HonoJS APIs optimized for edge computing"
-```
-
-**Tech Stack:** `Go` `Go-Colly` `Playwright` `Docker` `PostgreSQL` `HonoJS` `TypeScript`
 
 ---
 
@@ -172,7 +153,7 @@ ci-cd         automated-pipeline                   1/1     Running
 ```
 
 - 🎯 Led team of 5 developers in **React Native → Flutter** migration
-- ☸️ Architected microservices with **Kubernetes** orchestration
+- ☸️ Collaborated in the design and migration to a microservices architecture, gaining foundational knowledge in Kubernetes orchestration concepts
 - 🚀 Implemented **CI/CD pipelines** and **AWS infrastructure**
 
 **Tech Stack:** `Kubernetes` `AWS` `Docker` `Next.js` `NestJS` `PostgreSQL` `Redis`
